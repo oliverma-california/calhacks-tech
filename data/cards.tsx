@@ -87,4 +87,44 @@ export const CARDS: Card[] = [
     name: "Balloon",
     image: "/cards/balloon.webp",
   },
+  {
+    id: "dark_prince",
+    name: "Dark Prince",
+    image: "/cards/dark_prince.webp",
+  },
+  {
+    id: "witch",
+    name: "Witch",
+    image: "/cards/witch.webp",
+  },
+  {
+    id: "x_bow",
+    name: "X-Bow",
+    image: "/cards/x_bow.webp",
+  },
+  {
+    id: "goblin_hut",
+    name: "Goblin Hut",
+    image: "/cards/goblin_hut.webp",
+  },
+  {
+    id: "mortar",
+    name: "Mortar",
+    image: "/cards/mortar.webp",
+  },
+  {
+    id: "tesla",
+    name: "Tesla",
+    image: "/cards/tesla.webp",
+  },
+  {
+    id: "cannon",
+    name: "Cannon",
+    image: "/cards/cannon.webp",
+  },
+  {
+    id: "bomb_tower",
+    name: "Bomb Tower",
+    image: "/cards/bomb_tower.webp",
+  },
 ];

@@ -8,7 +8,7 @@ export default function Hero() {
   return (
     <div className="w-full flex justify-center">
       <div className="flex-col">
-        <div className="my-12 lg:my-0 h-[95vh] flex flex-col lg:flex-row gap-12 lg:gap-5 items-center justify-center lg:justify-between max-w-6xl w-full p-5">
+        <div className="my-24 lg:my-0 h-[95vh] flex flex-col lg:flex-row gap-12 lg:gap-5 items-center justify-center lg:justify-between max-w-6xl w-full p-5">
           <div className="text-neutral-300 pt-12 lg:pt-0 flex flex-col gap-6 lg:gap-10 w-full items-center lg:items-start">
             <h1 className="text-4xl font-semibold">
               <span className="text-blue-400">BlueKing</span><span className="text-red-400">RedKing</span>
@@ -26,7 +26,7 @@ export default function Hero() {
               </a>
             </div>
           </div>
-          <Image width={418} height={850} src="/phone.png" alt="Phone displaying BlueKingRedKing app" className="w-2/3 lg:w-lg bg-background" />
+          <Image width={988} height={1989} src="/iphone.png" alt="Phone displaying BlueKingRedKing app" className="object-scale-down h-4/5 lg:w-lg bg-background" />
         </div>
       </div>
     </div>
